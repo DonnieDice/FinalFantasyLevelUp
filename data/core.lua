@@ -1,6 +1,6 @@
 --=====================================================================================
 -- FFLU | Final Fantasy Level-Up! - core.lua
--- Version: 2.1.21
+-- Version: 2.2.0
 -- Author: DonnieDice
 -- Description: Professional World of Warcraft addon that plays Final Fantasy level-up sound
 -- RGX Mods Collection - RealmGX Community Project
@@ -10,7 +10,7 @@
 FFLU = FFLU or {}
 
 -- Constants (cached for performance)
-local ADDON_VERSION = "2.1.21"
+local ADDON_VERSION = "2.2.0"
 local ADDON_NAME = "FFLU"
 local ICON_PATH = "|Tinterface/addons/FFLU/images/icon:16:16|t"
 local SOUND_PATHS = {
@@ -250,6 +250,14 @@ function FFLU:OnEvent(event, ...)
             self.initialized = true
         end
         self:DisplayWelcomeMessage()
+        return
+    end
+
+    if event == "PLAYER_LOGOUT" then
+        -- Unconditional unmute: restores WoW default level-up sound on logout/UI reload
+        -- so mute state never persists past the current session without the addon running
+        self:UnmuteDefaultLevelUpSound()
+        return
     end
 end
 
@@ -267,6 +275,7 @@ local eventFrame = CreateFrame("Frame")
 eventFrame:RegisterEvent("PLAYER_LEVEL_UP")
 eventFrame:RegisterEvent("ADDON_LOADED")
 eventFrame:RegisterEvent("PLAYER_LOGIN")
+eventFrame:RegisterEvent("PLAYER_LOGOUT")
 eventFrame:SetScript("OnEvent", function(self, event, ...)
     local success, errorMsg = pcall(FFLU.OnEvent, FFLU, event, ...)
     if not success then
