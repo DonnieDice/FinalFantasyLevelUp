@@ -5,7 +5,7 @@
 
 <img src="images/FFLU_logo_400x400.png" alt="FFLU Logo" width="200">
 
-[![FFLU](https://img.shields.io/badge/FFLU-Final%20Fantasy%20Level%20Up!-ffe568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donniedice/FFLU)
+[![FFLU](https://img.shields.io/badge/FFLU-Final%20Fantasy%20Level%20Up!-ffe568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donniedice/FinalFantasyLevelUp)
 [![RGX Mods](https://img.shields.io/badge/RGX-Mods%20Collection-8B1538?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/N7kdKAHVVF)
 
 ### <span style="color:#ffe568">🌟 Join the </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Community</span> <span style="color:#3598db">-</span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme!</span> <span style="color:#ffe568">🌟</span>
@@ -20,15 +20,15 @@
 ---
 
 <!-- GitHub Stats & Badges -->
-[![GitHub release](https://img.shields.io/github/v/release/donniedice/FFLU?style=for-the-badge&logo=github&color=success)](https://github.com/donniedice/FFLU/releases)
-[![GitHub stars](https://img.shields.io/github/stars/donniedice/FFLU?style=for-the-badge&logo=github&color=yellow)](https://github.com/donniedice/FFLU/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/donniedice/FFLU?style=for-the-badge&logo=github&color=blue)](https://github.com/donniedice/FFLU/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/donniedice/FFLU?style=for-the-badge&logo=github&color=red)](https://github.com/donniedice/FFLU/issues)
-[![GitHub license](https://img.shields.io/github/license/donniedice/FFLU?style=for-the-badge&logo=github&color=lightgrey)](https://github.com/donniedice/FFLU/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/donniedice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=success)](https://github.com/donniedice/FinalFantasyLevelUp/releases)
+[![GitHub stars](https://img.shields.io/github/stars/donniedice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=yellow)](https://github.com/donniedice/FinalFantasyLevelUp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/donniedice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=blue)](https://github.com/donniedice/FinalFantasyLevelUp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/donniedice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=red)](https://github.com/donniedice/FinalFantasyLevelUp/issues)
+[![GitHub license](https://img.shields.io/github/license/donniedice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=lightgrey)](https://github.com/donniedice/FinalFantasyLevelUp/blob/main/LICENSE)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/donniedice/FFLU?style=flat-square&logo=github)](https://github.com/donniedice/FFLU/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/donniedice/FFLU?style=flat-square&logo=github)](https://github.com/donniedice/FFLU/graphs/contributors)
-[![GitHub repo size](https://img.shields.io/github/repo-size/donniedice/FFLU?style=flat-square&logo=github)](https://github.com/donniedice/FFLU)
+[![GitHub last commit](https://img.shields.io/github/last-commit/donniedice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/donniedice/FinalFantasyLevelUp/commits/main)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/donniedice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/donniedice/FinalFantasyLevelUp/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/donniedice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/donniedice/FinalFantasyLevelUp)
 
 <!-- Platform Badges -->
 [![CurseForge](https://img.shields.io/badge/CurseForge-Downloads-orange?style=flat-square&logo=curseforge)](https://www.curseforge.com/wow/addons/fflu)
@@ -84,7 +84,7 @@
 | | |
 |---|---|
 | [![Donate](https://img.shields.io/badge/Donate-CashApp-00C853?style=for-the-badge&logo=cash-app&logoColor=white)](https://bit.ly/3fyxxSU) | [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/donniedice) |
-| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/⭐-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/donniedice/FFLU) |
+| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/⭐-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/donniedice/FinalFantasyLevelUp) |
 
 _<span style="color:#e67e23">Every donation helps fund new features and improvements!</span>_
 
@@ -212,7 +212,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
    - [<span style="color:#ff6b6b">CurseForge</span>](https://www.curseforge.com/wow/addons/fflu) _(Recommended)_
    - [<span style="color:#b96ad9">Wago.io</span>](https://addons.wago.io/addons/fflu)
    - [<span style="color:#4ecdc4">WoWInterface</span>](https://www.wowinterface.com/downloads/info26252)
-   - [<span style="color:#24292e">GitHub</span>](https://github.com/donniedice/FFLU/releases)
+   - [<span style="color:#24292e">GitHub</span>](https://github.com/donniedice/FinalFantasyLevelUp/releases)
 
 2. **<span style="color:#4ecdc4">Extract</span>** <span style="color:#e67e23">to your</span> <span style="color:#06c">WoW</span> <span style="color:#e67e23">AddOns directory</span><span style="color:#3598db">:</span>
    - <span style="color:#e67e23">**Retail**: `World of Warcraft/_retail_/Interface/AddOns`</span>
@@ -284,7 +284,7 @@ volume = "Master"        -- Volume channel
 
 ## <span style="color:#ffe568">🐛 Known Issues</span>
 
-- <span style="color:#e67e23">No known issues at this time. Report any problems via</span> [<span style="color:#ff6b6b">GitHub Issues</span>](https://github.com/donniedice/FFLU/issues) <span style="color:#e67e23">or our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)<span style="color:#e67e23">.</span>
+- <span style="color:#e67e23">No known issues at this time. Report any problems via</span> [<span style="color:#ff6b6b">GitHub Issues</span>](https://github.com/donniedice/FinalFantasyLevelUp/issues) <span style="color:#e67e23">or our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)<span style="color:#e67e23">.</span>
 
 ---
 
@@ -302,14 +302,14 @@ volume = "Master"        -- Volume channel
 
 **<span style="color:#ff6b6b">Still having trouble?</span>**
 - <span style="color:#e67e23">Join our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF) <span style="color:#e67e23">for instant support</span>
-- <span style="color:#e67e23">Open a</span> [<span style="color:#ff6b6b">GitHub Issue</span>](https://github.com/donniedice/FFLU/issues)
+- <span style="color:#e67e23">Open a</span> [<span style="color:#ff6b6b">GitHub Issue</span>](https://github.com/donniedice/FinalFantasyLevelUp/issues)
 
 ---
 
 ## <span style="color:#ffe568">🤝 Contributing</span>
 
 <span style="color:#e67e23">Contributions are welcome! Feel free to</span><span style="color:#3598db">:</span>
-- <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/donniedice/FFLU/issues)
+- <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/donniedice/FinalFantasyLevelUp/issues)
 - <span style="color:#ff6b6b">💡 **Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
 - <span style="color:#4ecdc4">🌍 **Help with translations**</span> <span style="color:#e67e23">for global players</span>
 - <span style="color:#2dc26b">⭐ **Star the repository**</span> <span style="color:#e67e23">to show your support</span>
@@ -318,7 +318,7 @@ volume = "Master"        -- Volume channel
 
 ## <span style="color:#ffe568">📄 License</span>
 
-<span style="color:#e67e23">This project is licensed under the</span> [<span style="color:#2dc26b">MIT License</span>](https://github.com/donniedice/FFLU/blob/main/LICENSE)<span style="color:#e67e23">.</span>
+<span style="color:#e67e23">This project is licensed under the</span> [<span style="color:#2dc26b">MIT License</span>](https://github.com/donniedice/FinalFantasyLevelUp/blob/main/LICENSE)<span style="color:#e67e23">.</span>
 
 ---
 

@@ -1,10 +1,10 @@
-package-as: FFLU
+package-as: FinalFantasyLevelUp
 manual-changelog: docs/CHANGES.md
 
 enable-nolib-creation: no
 
 move-folders:
-  FFLU/FFLU: FFLU
+  FinalFantasyLevelUp/FFLU: FinalFantasyLevelUp
 
 ignore:
   - .gitignore
@@ -13,7 +13,7 @@ ignore:
   - CLAUDE.md
 
 plain-copy:
-  - Images/logo.png
+  - images/logo.png
 
 manual-changelog:
   filename: docs/CHANGES.md
