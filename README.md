@@ -1,9 +1,9 @@
-# <img src="images/FFLU_logo_400x400.png" width="25" height="25"> <span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#fff">|</span> <span style="color:#ffe568">F</span><span style="color:#fff">inal </span><span style="color:#ffe568">F</span><span style="color:#fff">antasy </span><span style="color:#ffe568">L</span><span style="color:#fff">evel-</span><span style="color:#ffe568">U</span><span style="color:#fff">p!</span>
+# <img src="images/logo.png" width="25" height="25"> <span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#fff">|</span> <span style="color:#ffe568">F</span><span style="color:#fff">inal </span><span style="color:#ffe568">F</span><span style="color:#fff">antasy </span><span style="color:#ffe568">L</span><span style="color:#fff">evel-</span><span style="color:#ffe568">U</span><span style="color:#fff">p!</span>
 ## <img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" height="20"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#3598db">-</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#ffe568">Community Project</span>
 
 <div align="center">
 
-<img src="images/FFLU_logo_400x400.png" alt="FFLU Logo" width="200">
+<img src="images/logo.png" alt="FFLU Logo" width="200">
 
 [![FFLU](https://img.shields.io/badge/FFLU-Final%20Fantasy%20Level%20Up!-ffe568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donniedice/FinalFantasyLevelUp)
 [![RGX Mods](https://img.shields.io/badge/RGX-Mods%20Collection-8B1538?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/N7kdKAHVVF)
