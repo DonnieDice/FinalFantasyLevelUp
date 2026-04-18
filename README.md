@@ -1,5 +1,5 @@
 # <img src="images/logo.png" width="25" height="25"> <span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#fff">|</span> <span style="color:#ffe568">F</span><span style="color:#fff">inal </span><span style="color:#ffe568">F</span><span style="color:#fff">antasy </span><span style="color:#ffe568">L</span><span style="color:#fff">evel-</span><span style="color:#ffe568">U</span><span style="color:#fff">p</span><span style="color:#ffe568">!</span>
-## <img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" height="20"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#3598db">-</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#ffe568">Community Project</span>
+## <img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" height="20"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#3598db">-</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#ffe568">Community Project</span>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 **<span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with the iconic Final Fantasy level-up sound — across all WoW versions.</span>**
 
-**<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" width="18" height="18"> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
+**<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" width="18" height="18"> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
 
 ---
 
@@ -65,7 +65,7 @@
 - <span style="color:#ffe568">📢 **First to know**</span> <span style="color:#e67e23">about new</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">releases</span>
 - <span style="color:#e67e23">🎉 **Events, giveaways**, and community activities</span>
 
-<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" alt="RealmGX Kiwi" width="100">
+<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" alt="RealmGX Kiwi" width="100">
 
 **<span style="color:#ff6b6b">⚠️ WARNING:</span>** <span style="color:#e67e23">May reduce social activity.</span>
 
@@ -98,7 +98,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 **<span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#fff">|</span> <span style="color:#ffe568">F</span><span style="color:#fff">inal </span><span style="color:#ffe568">F</span><span style="color:#fff">antasy </span><span style="color:#ffe568">L</span><span style="color:#fff">evel-</span><span style="color:#ffe568">U</span><span style="color:#fff">p</span><span style="color:#ffe568">!</span>** <span style="color:#e67e23">is the ultimate</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">creation for bringing that triumphant</span> **<span style="color:#ffe568">"Victory Fanfare!"</span>** <span style="color:#e67e23">feeling from Final Fantasy directly into your</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">experience. No more bland WoW level-up sounds — now you get the legendary fanfare that made every Final Fantasy level-up feel like a true victory!</span>
 
 ### <span style="color:#ffe568">🔥 Why Choose FFLU?</span>
-- **<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" width="16" height="16"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Quality</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Built by the</span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#e67e23">community with passion</span>
+- **<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" width="16" height="16"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Quality</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Built by the</span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#e67e23">community with passion</span>
 - **<span style="color:#ffe568">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports English, Russian, German, French, and Spanish</span>
 - **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
 - **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across all WoW versions</span>
@@ -337,7 +337,7 @@ _<span style="color:#e67e23">"May your levels be swift and your fanfares be lege
 
 **<span style="color:#ffe568">⚠️ WARNING:</span>** <span style="color:#e67e23">May reduce social activity.</span>
 
-<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" alt="RealmGX Kiwi" width="80">
+<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" alt="RealmGX Kiwi" width="80">
 
 **<span style="color:#2dc26b">The Kiwi Says:</span>** <span style="color:#b96ad9">"Bwwiiiee."</span>
 
@@ -347,6 +347,6 @@ _<span style="color:#e67e23">"May your levels be swift and your fanfares be lege
 
 [<span style="color:#05dffa">BLU</span>](https://github.com/donniedice/BLU) | [<span style="color:#05dffa">BLU Classic</span>](https://github.com/donniedice/BLU_Classic) | [<span style="color:#9b59b6">CCU</span>](https://github.com/donniedice/CoordinationCloakUtility) | [<span style="color:#58be81">PetBuddy2</span>](https://github.com/donniedice/PetBuddy2) | [<span style="color:#e74c3c">RND</span>](https://github.com/DonnieDice/RemoveNameplateDebuffs) | [<span style="color:#58be81">SQP</span>](https://github.com/donniedice/SimpleQuestPlates) | [<span style="color:#8B4513">SRLU</span>](https://github.com/donniedice/SkyrimLevelUp)
 
-**<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif" width="18" height="18"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#3598db">-</span> <span style="color:#e67e23">Powered by</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#e67e23">Community</span>**
+**<img src="https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/media/kiwi.gif" width="18" height="18"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#3598db">-</span> <span style="color:#e67e23">Powered by</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#e67e23">Community</span>**
 
 </div>

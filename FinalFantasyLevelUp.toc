@@ -4,7 +4,7 @@
 ## Notes: Play the iconic Final Fantasy level-up sound!  |n|r  |cffffe568/fflu -|r Open help  |n|r   |cffffe568By DonnieDice|r
 ## Author: DonnieDice
 ## Email: donniedice@protonmail.com
-## IconTexture: Interface\AddOns\FinalFantasyLevelUp\images\icon
+## IconTexture: Interface\AddOns\FinalFantasyLevelUp\media\icon
 ## SavedVariables: FFLUSettings
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
