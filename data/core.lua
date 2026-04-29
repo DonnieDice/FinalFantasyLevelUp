@@ -1,6 +1,6 @@
 --=====================================================================================
 -- FFLU | Final Fantasy Level-Up! - core.lua
--- Version: 2.2.0
+-- Version: 2.2.2
 -- Author: DonnieDice
 -- Description: Professional World of Warcraft addon that plays Final Fantasy level-up sound
 -- RGX Mods Collection - RealmGX Community Project
@@ -10,7 +10,7 @@
 FFLU = FFLU or {}
 
 -- Constants (cached for performance)
-local ADDON_VERSION = "2.2.0"
+local ADDON_VERSION = "2.2.2"
 local ADDON_NAME = "FFLU"
 local ICON_PATH = "|Tinterface/addons/FFLU/media/icon:16:16|t"
 local SOUND_PATHS = {

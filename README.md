@@ -229,18 +229,14 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ---
 
-## <span style="color:#ffe568">🆕 What's New in v2.1.18</span>
+## <span style="color:#ffe568">🆕 What's New in v2.2.2</span>
 
 <span style="color:#ffe568">🎉 Click to see the latest updates!</span>
 
 ### <span style="color:#4ecdc4">🆕 Major Updates</span>
-- <span style="color:#2dc26b">✅ **Simplified command structure**</span> <span style="color:#e67e23">— direct sound selection</span>
-- <span style="color:#ffe568">✅ **Auto-unmute default sound**</span> <span style="color:#e67e23">when disabling addon</span>
-- <span style="color:#ff6b6b">✅ **Improved performance**</span> <span style="color:#e67e23">with optimized code</span>
-- <span style="color:#b96ad9">✅ **Updated TOC files**</span> <span style="color:#e67e23">with proper formatting</span>
-- <span style="color:#4ecdc4">✅ **Removed unnecessary complex commands**</span>
-- <span style="color:#2dc26b">✅ **Enhanced error handling**</span> <span style="color:#e67e23">and stability</span>
-- <span style="color:#8B1538">✅ **Russian localization**</span> <span style="color:#e67e23">by ZamestoTV (Hubbotu)</span>
+- <span style="color:#2dc26b">✅ **Cleaner AddOns title**</span> <span style="color:#e67e23">with updated in-game metadata</span>
+- <span style="color:#ffe568">✅ **Synced release version**</span> <span style="color:#e67e23">across TOC and addon core</span>
+- <span style="color:#ff6b6b">✅ **Updated changelog**</span> <span style="color:#e67e23">for the v2.2.2 release</span>
 
 ### <span style="color:#4ecdc4">🔧 Improvements</span>
 - <span style="color:#2dc26b">✅ **Cleaner user experience**</span>
