@@ -1,17 +1,6 @@
-# v2.2.3 - 2026-04-29
+# v3.0.0 - 2026-04-30
 
 ## Changes
-- Updated README logo paths to use the packaged media assets.
-- Normalized description page command-section wording and shared RGX Kiwi asset paths.
-- Synced addon version metadata for this release.
 
-# v2.2.2 - 2026-04-29
-
-## Changes
-- Updated addon title metadata for cleaner in-game AddOns list display.
-- Synced addon version metadata for the v2.2.2 release.
-
-# v2.2.1 - 2026-04-23
-
-## Changes
-- TOC bump for interface 120005.
+- **Migrated to RGX-Framework**: Added `RequiredDeps: RGX-Framework` to TOC. Core logic now uses `RGX:GetSound()`, `RGX:RegisterEvent()`, and `RGX:RegisterSlashCommand()` — eliminating ~160 lines of duplicated boilerplate.
+- **RGXSound handle**: Sound playback, variant management, mute/unmute, settings, and welcome message are now handled by the RGXSound module in RGX-Framework.
